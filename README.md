@@ -10,3 +10,5 @@ graph() saved the results using 25,000 iterations to produce a visual representa
 
 ZeroSumSort & ZeroSum Faster:
 2 approaches to finding 3 numbers in a list which sum to 0
+
+Job Schedule: Given a csv file containing pairs of weights and times, each representing a job return the most optimal order in which the jobs should be completed
