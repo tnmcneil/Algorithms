@@ -8,4 +8,5 @@ This implementation uses 25,000 iterations of each approach on 50 sequences of 1
 Change k to adjust the number of iterations or r to adjust the range which can both be found in randTest()
 graph() saved the results using 25,000 iterations to produce a visual representation of the performance of each approach.
 
-ZeroSumSort
+ZeroSumSort & ZeroSum Faster:
+2 approaches to finding 3 numbers in a list which sum to 0
